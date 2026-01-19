@@ -1,2 +1,2 @@
 # latihan-branch
-latihan branch
+repository untuk latihan branch
