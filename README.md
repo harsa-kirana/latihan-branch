@@ -1,3 +1,3 @@
 # repository conflict
 repo development
-- commmit 1
+- commit 1
